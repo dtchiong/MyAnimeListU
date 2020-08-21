@@ -4,9 +4,9 @@ The unofficial mobile app for [MyAnimeList](https://myanimelist.net/)
 <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/Login-compressed.gif" width="360" height="640" />
 
 ## Test the Beta App
-You can [download](https://testflight.apple.com/join/MuS800Bk) the beta version of the app on iOS using TestFlight.
+You can **[download](https://testflight.apple.com/join/MuS800Bk)** the beta version of the app on iOS using TestFlight.
 1. Download [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) on your device
-2. Open this [link](https://testflight.apple.com/join/MuS800Bk) on your device to download the app
+2. Open this **[link](https://testflight.apple.com/join/MuS800Bk)** on your device to download the app
 
 ## About
 This is an unofficial ios app for MyAnimeList that integrates their [API](https://myanimelist.net/apiconfig/references/api/v2), allowing users to discover the top ranked, most popular, upcoming anime/manga, search for new titles, add new titles to their lists, and update their watch/read status and episode/chapter counts.
