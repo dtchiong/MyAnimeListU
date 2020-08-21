@@ -11,6 +11,8 @@ You can **[download](https://testflight.apple.com/join/MuS800Bk)** the beta vers
 ## About
 This is an unofficial ios app for MyAnimeList that integrates their [API](https://myanimelist.net/apiconfig/references/api/v2), allowing users to discover the top ranked, most popular, upcoming anime/manga, search for new titles, add new titles to their lists, and update their watch/read status and episode/chapter counts.
 
+The app is still very much a work in progress, so many features may be unimplemented.
+
 ## Technologies used
 * [React Native](https://reactnative.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
