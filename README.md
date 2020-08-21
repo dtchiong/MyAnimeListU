@@ -16,3 +16,14 @@ This is an unofficial ios app for MyAnimeList that integrates their [API](https:
 * [TypeScript](https://www.typescriptlang.org/)
 * [Redux Toolkit](https://redux-toolkit.js.org/)
 * [React-Navigation 5](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)
+
+## Main Todos
+- [x] Login/registration
+- [x] Main discover screen
+- [x] View top ranking lists for anime/manga
+- [x] Search functionality
+- [x] Details screen that shows synopsis, other info, related titles, recommendations
+- [ ] List screen that shows the user's personal anime and manga lists
+- [ ] Updating the users's anime/manga list status
+- [ ] Profile screen
+- [ ] Android version
