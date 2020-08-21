@@ -8,6 +8,10 @@ You can **[download](https://testflight.apple.com/join/MuS800Bk)** the beta vers
 1. Download [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) on your device
 2. Open this **[link](https://testflight.apple.com/join/MuS800Bk)** on your device to download the app
 
+If you want to just demo it very quickly without registering your own account, you can login using a premade account:  
+**Username**: `guestuser000`  
+**Password**: `guestuser0`  
+
 ## About
 This is an unofficial ios app for MyAnimeList that integrates their [API](https://myanimelist.net/apiconfig/references/api/v2), allowing users to discover the top ranked, most popular, upcoming anime/manga, search for new titles, add new titles to their lists, and update their watch/read status and episode/chapter counts.
 
