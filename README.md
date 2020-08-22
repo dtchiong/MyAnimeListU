@@ -1,7 +1,11 @@
 # MyAnimeListU
 The unofficial mobile app for [MyAnimeList](https://myanimelist.net/)
 
-<img src="https://github.com/dtchiong/MyAnimeListU/blob/master/Login-compressed.gif" width="360" height="640" />
+| | |
+| - | - |
+| <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/Login-compressed.gif" width="360" height="640" /> | <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/Discover-compressed.gif" width="360" height="640" /> |
+
+
 
 ## Test the Beta App
 You can **[download](https://testflight.apple.com/join/MuS800Bk)** the beta version of the app on iOS using TestFlight.
