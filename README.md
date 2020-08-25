@@ -22,10 +22,11 @@ This is an unofficial ios app for MyAnimeList that integrates their [API](https:
 The app is still very much a work in progress, so many features may be unimplemented.
 
 ## Technologies used
-* [React Native](https://reactnative.dev/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Redux Toolkit](https://redux-toolkit.js.org/)
-* [React-Navigation 5](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)
+* [<img align="center" alt=" " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React Native](https://reactnative.dev/)
+* [<img align="center" alt=" " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript](https://www.typescriptlang.org/)
+* [<img align="center" alt=" " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" /> Redux Toolkit](https://redux-toolkit.js.org/)
+* [<img align="center" alt="" width="26px" src="https://avatars0.githubusercontent.com/u/29647600?s=200&v=4" /> React-Navigation 5](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)
+
 
 ## Main Todos
 - [x] Login/registration
