@@ -28,7 +28,7 @@ The app is still a work in progress, so many features may be unimplemented.
 * [<img align="center" alt="" width="26px" src="https://avatars0.githubusercontent.com/u/29647600?s=200&v=4" /> React-Navigation 5](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)
 
 
-## Core features:
+## Features:
 - [x] Login/registration screens
 - [x] Discover screens show casing top anime/manga
 - [x] View top ranking lists for anime/manga
@@ -40,4 +40,5 @@ The app is still a work in progress, so many features may be unimplemented.
 - [ ] Adding manga to lists/updating read status, chapter count, rating
 - [ ] Profile screen
 - [ ] Notifications for airing anime
+- [ ] Light mode 🌞 (maybe as paid feature)
 - [ ] Android version
