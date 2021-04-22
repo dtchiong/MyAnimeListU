@@ -1,9 +1,9 @@
 # MyAnimeListU
 The unofficial mobile app for [MyAnimeList](https://myanimelist.net/)
 
-| | |
-| - | - |
-| <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/list_and_search.gif" width="320" height="640" /> | <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/status_gif.gif" width="320" height="640" /> |
+| | | |
+| - | - | - |
+| <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/login.gif" width="288" height="576" /> | <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/list_and_search.gif" width="288" height="576" /> | <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/status_gif.gif" width="288" height="576" />
 
 
 
