@@ -3,7 +3,7 @@ The unofficial mobile app for [MyAnimeList](https://myanimelist.net/)
 
 | | |
 | - | - |
-| <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/Login-compressed.gif" width="360" height="640" /> | <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/Discover-compressed.gif" width="360" height="640" /> |
+| <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/list_and_search.gif" width="320" height="640" /> | <img src="https://github.com/dtchiong/MyAnimeListU/blob/master/status_gif.gif" width="320" height="640" /> |
 
 
 
@@ -12,14 +12,14 @@ You can **[download](https://testflight.apple.com/join/MuS800Bk)** the beta vers
 1. Download [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) on your device
 2. Open this **[link](https://testflight.apple.com/join/MuS800Bk)** on your device to download the app
 
-If you want to just demo it very quickly without registering your own account, you can login using a premade account:  
+If you want to demo it quickly without creating your own account, you can login using a premade account:  
 **Username**: `guestuser000`  
 **Password**: `guestuser0`  
 
 ## About
 This is an unofficial ios app for MyAnimeList that integrates their [API](https://myanimelist.net/apiconfig/references/api/v2), allowing users to discover the top ranked, most popular, upcoming anime/manga, search for new titles, add new titles to their lists, and update their watch/read status and episode/chapter counts.
 
-The app is still very much a work in progress, so many features may be unimplemented.
+The app is still a work in progress, so many features may be unimplemented.
 
 ## Technologies used
 * [<img align="center" alt=" " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React Native](https://reactnative.dev/)
@@ -28,13 +28,16 @@ The app is still very much a work in progress, so many features may be unimpleme
 * [<img align="center" alt="" width="26px" src="https://avatars0.githubusercontent.com/u/29647600?s=200&v=4" /> React-Navigation 5](https://reactnavigation.org/blog/2020/02/06/react-navigation-5.0/)
 
 
-## Main Todos
-- [x] Login/registration
-- [x] Main discover screen
+## Core features:
+- [x] Login/registration screens
+- [x] Discover screens show casing top anime/manga
 - [x] View top ranking lists for anime/manga
-- [x] Search functionality
-- [x] Details screen that shows synopsis, other info, related titles, recommendations
-- [ ] List screen that shows the user's personal anime and manga lists
-- [ ] Updating the users's anime/manga list status
+- [x] Search screens for anime/manga
+- [x] Details screen that shows core details, synopsis, related titles, recommendations, and other info
+- [x] User's saved anime list screens
+- [ ] User's saved manga list screens
+- [x] Adding anime to lists/updating watch status, episode count, rating
+- [ ] Adding manga to lists/updating read status, chapter count, rating
 - [ ] Profile screen
+- [ ] Notifications for airing anime
 - [ ] Android version
