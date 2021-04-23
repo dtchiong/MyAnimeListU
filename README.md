@@ -17,7 +17,7 @@ If you want to demo it quickly without creating your own account, you can login 
 **Password**: `guestuser0`  
 
 ## About
-This is an unofficial ios app for MyAnimeList that integrates their [API](https://myanimelist.net/apiconfig/references/api/v2), allowing users to discover the top ranked, most popular, upcoming anime/manga, search for new titles, add new titles to their lists, and update their watch/read status and episode/chapter counts.
+This is an unofficial iOS app for MyAnimeList that integrates their [API](https://myanimelist.net/apiconfig/references/api/v2), allowing users to discover the top ranked, most popular, upcoming anime/manga, search for new titles, add new titles to their lists, and update their watch/read status and episode/chapter counts.
 
 The app is still a work in progress, so many features may be unimplemented.
 
